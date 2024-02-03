@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+h1.temporary {
+  padding-top: 5vh;
+  font-family: sans-serif;
+  text-align: center;
+}
